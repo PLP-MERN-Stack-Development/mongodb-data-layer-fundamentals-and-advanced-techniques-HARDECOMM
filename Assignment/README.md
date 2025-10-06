@@ -45,8 +45,9 @@ my-repo/
 
 ## **Clone the repository**:
    ```bash or powershell```
-   git clone 
-   cd <repository-name>
+   git clone https://github.com/PLP-MERN-Stack-Development/mongodb-data-layer-fundamentals-and-advanced-techniques-HARDECOMM.git
+   
+   cd <repository directory>
 
 ## Install dependencies
    npm install
